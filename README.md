@@ -3,7 +3,7 @@
 An NLP-driven Machine Learning web application designed to analyze and classify public social media sentiment regarding flood disaster events in Sumatra, Indonesia, using the Support Vector Machine (SVM) algorithm.
 
 ## 🚀 Live Demo
-- **URL:** *(To be updated after Vercel deployment)*
+- **URL:** https://sumatra-flood-sentiment-svm.vercel.app
 
 ## ✨ Key Features
 - **Text Preprocessing Pipeline:** Automated text cleaning, case folding, tokenization, stopword removal, and stemming.
